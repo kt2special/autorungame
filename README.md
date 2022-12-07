@@ -1,0 +1,2 @@
+# autorungame
+androidstudioで作成したオートランゲームアプリ
